@@ -4,41 +4,41 @@
 		"catName": "男生头像",
 		"himageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/男生头像/",
 		"backImageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/男生头像/1.jpg",
-		"count":52
+		"count":"52"
 	},{
 		"catName": "女生头像",
 		"himageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/女生头像/",
 		"backImageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/女生头像/1.jpg",
-		"count":53
+		"count":"53"
 	},{
 		"catName": "情侣头像",
 		"himageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/情侣头像/",
 		"backImageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/情侣头像/1.jpg",
-		"count":63
+		"count":"63"
 	},{
 		"catName": "动漫头像",
 		"himageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/动漫头像/",
 		"backImageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/动漫头像/1.jpg",
-		"count":50
+		"count":"50"
 	},{
 		"catName": "搞怪头像",
 		"himageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/搞怪头像/",
 		"backImageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/搞怪头像/1.jpg",
-		"count":39
+		"count":"39"
 	},{
 		"catName": "可爱头像",
 		"himageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/可爱头像/",
 		"backImageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/可爱头像/1.jpg",
-		"count":51
+		"count":"51"
 	},{
 		"catName": "日系头像",
 		"himageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/日系头像/",
 		"backImageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/日系头像/1.jpg",
-		"count":53
+		"count":"53"
 	},{
 		"catName": "萌宠头像",
 		"himageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/萌宠头像/",
 		"backImageUrl":"https://raw.githubusercontent.com/Erowin/TX/master/萌宠头像/1.jpg",
-		"count":69
+		"count":"69"
 	}]
 }
