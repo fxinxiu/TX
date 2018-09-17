@@ -7,6 +7,36 @@
 		"vipCount":"30",
 		"count":"32"
 	},{
+		"catName": "古风男头像",
+		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/古风男头像/",
+		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/古风男头像/1.jpg",
+		"vipCount":"50",
+		"count":"122"
+	},{
+		"catName": "古风女头像",
+		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/古风女头像/",
+		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/古风女头像/1.jpg",
+		"vipCount":"50",
+		"count":"122"
+	},{
+		"catName": "欧美男头像",
+		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/欧美男头像/",
+		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/欧美男头像/1.jpg",
+		"vipCount":"50",
+		"count":"122"
+	},{
+		"catName": "欧美女头像",
+		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/欧美女头像/",
+		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/欧美女头像/1.jpg",
+		"vipCount":"50",
+		"count":"122"
+	},{
+		"catName": "萌娃头像",
+		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/萌娃头像/",
+		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/萌娃头像/1.jpg",
+		"vipCount":"50",
+		"count":"122"
+	},{
 		"catName": "男生头像",
 		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/男生头像/",
 		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/男生头像/1.jpg",
