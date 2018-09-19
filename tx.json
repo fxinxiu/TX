@@ -7,6 +7,24 @@
 		"vipCount":"30",
 		"count":"32"
 	},{
+		"catName": "情侣头像",
+		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/情侣头像/",
+		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/情侣头像/1.jpg",
+		"vipCount":"50",
+		"count":"227"
+	},{
+		"catName": "男生头像",
+		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/男生头像/",
+		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/男生头像/1.jpg",
+		"vipCount":"34",
+		"count":"130"
+	},{
+		"catName": "女生头像",
+		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/女生头像/",
+		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/女生头像/1.jpg",
+		"vipCount":"44",
+		"count":"129"
+	},{
 		"catName": "带公式头像",
 		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/带公式头像/",
 		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/带公式头像/1.png",
@@ -36,24 +54,6 @@
 		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/mengchong/1.jpg",
 		"vipCount":"50",
 		"count":"122"
-	},{
-		"catName": "男生头像",
-		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/男生头像/",
-		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/男生头像/1.jpg",
-		"vipCount":"34",
-		"count":"130"
-	},{
-		"catName": "女生头像",
-		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/女生头像/",
-		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/女生头像/1.jpg",
-		"vipCount":"44",
-		"count":"129"
-	},{
-		"catName": "情侣头像",
-		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/情侣头像/",
-		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/情侣头像/1.jpg",
-		"vipCount":"50",
-		"count":"227"
 	},{
 		"catName": "动漫头像",
 		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/动漫头像/",
