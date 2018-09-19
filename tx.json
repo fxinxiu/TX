@@ -7,16 +7,22 @@
 		"vipCount":"30",
 		"count":"32"
 	},{
+		"catName": "带公式头像",
+		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/带公式头像/",
+		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/带公式头像/1.png",
+		"vipCount":"10",
+		"count":"20"
+	},{
 		"catName": "古风头像",
 		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/古风头像/",
 		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/古风头像/1.png",
-		"vipCount":"10",
+		"vipCount":"20",
 		"count":"36"
 	},{
 		"catName": "欧美头像",
 		"himageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/欧美头像/",
 		"backImageUrl":"https://raw.githubusercontent.com/fxinxiu/TX/master/欧美头像/1.png",
-		"vipCount":"10",
+		"vipCount":"20",
 		"count":"39"
 	},{
 		"catName": "萌娃头像",
